@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217360538564",
+    "firebase_url": "https://flutterpush-5abdd.firebaseio.com",
+    "project_id": "flutterpush-5abdd",
+    "storage_bucket": "flutterpush-5abdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217360538564:android:8ac633c1267f749806a291",
+        "android_client_info": {
+          "package_name": "com.ceadflutter.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217360538564-9f6s7nadgguotbhducq4va4ovni7jkgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4lYudH5gh00xz_TnqEfKTLWPqDUrDVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217360538564-9f6s7nadgguotbhducq4va4ovni7jkgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
